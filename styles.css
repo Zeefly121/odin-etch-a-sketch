@@ -3,7 +3,7 @@
     height: 80vh;
     display: flex;
     flex-direction: column;
-    flex: 1 1 200px;
+    flex: 1;
 }
 
 .flex-row {
@@ -13,7 +13,6 @@
 }
 
 .cells {
-    border: solid 2px black;
-    flex: 1; 
-    box-sizing: border-box; 
+    border: solid 1px black;
+    flex: 1;  
 }
